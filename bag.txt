@@ -1,0 +1,10 @@
+ID
+Title
+Severity
+Name
+Data
+Precondition
+Steps
+Expected result
+Actual result
+Attachments
